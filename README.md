@@ -42,8 +42,4 @@ react-native run-ios || react-native run-android
 
 ## Screenshot
 
-<img alt="Screenshot Home" src=".github/screenshot-home-1.png" height="300"/>
-<img alt="Screenshot Home" src=".github/screenshot-home-2.png" height="300"/>
-<img alt="Screenshot Cart" src=".github/screenshot-cart-1.png" height="300"/>
-<img alt="Screenshot Cart" src=".github/screenshot-cart-2.png" height="300"/>
-<img alt="Screenshot Cart" src=".github/screenshot-cart-3.png" height="300"/>
+<img alt="Screenshot Home" src=".github/screenshot-home-1.png" height="300"/> <img alt="Screenshot Home" src=".github/screenshot-home-2.png" height="300"/> <img alt="Screenshot Cart" src=".github/screenshot-cart-1.png" height="300"/> <img alt="Screenshot Cart" src=".github/screenshot-cart-2.png" height="300"/> <img alt="Screenshot Cart" src=".github/screenshot-cart-3.png" height="300"/>
